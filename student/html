@@ -1,0 +1,63 @@
+<html>
+
+<head>
+    <title>header</title>
+    <link rel="stylesheet" href="header.css">
+</head>
+<body>
+    <nav>
+        <lable class="logo" style="color:black;"></lable>
+        <ul>
+            <li><a href="#" style="color:black;">Service</a></li>
+            <li><a href="#" style="color:black;">About</a></li>
+            <li><a href="#" style="color:black;">Contact</a></li>
+            <li><a href="#" style="color:black;">Login/Signup</a></li>
+            
+        </ul>
+    </nav>
+    <br><br>
+    <br><br>
+    <center>
+        <form>
+            <table style="width:100%" border="2" cellpadding="10">
+                <div class="box">
+                    <th style="height:200px">I want room</th>
+                </div>
+                <div class="box">
+                    <th style="height:200px">I want Job</th>
+                </div>
+                <div class="box">
+                    <th style="height:200px">List your property</th>
+                </div> 
+                <div class="box">
+                    <th style="height:200px">I want to hire</th>
+                </div> 
+            </table>
+        </form>
+    </center>
+<br><br>
+<br><br>
+    <form>
+            <table  border="2" cellpadding="4">
+                <div>
+                <tr style="width:200px">
+                    <th>News</th>
+                </tr>
+                <tr style="height:200px">
+                <td>--</td>
+                </tr>
+                </div>
+                <div class="box">
+                <tr style="width:200px">
+                    <th>Gallery</th>
+                </tr>
+                <tr style="height:200px">
+                <td>--</td>
+                </tr>
+                </div>
+            </table>
+        </form>
+       
+
+</body>
+</html>
