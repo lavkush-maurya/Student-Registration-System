@@ -60,8 +60,8 @@ Contributions to the Student Registration System project are welcome! If you fin
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-https://lavkush-maurya.github.io/Portfolio/
-https://lavkushreactjs.firebaseapp.com/contact
+Contact: https://lavkushreactjs.firebaseapp.com/contact
 
+Portfolio Site:  https://lavkush-maurya.github.io/Portfolio/
 If you have any questions or suggestions regarding the Student Registration System project, feel free to contact us at [lavkushmaurya147@gmail.com](mailto:lavkushmaurya147@gmail.com).
 
