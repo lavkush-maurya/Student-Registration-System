@@ -42,7 +42,7 @@ Student Registration System is a PHP-based web application that allows administr
 
 ## Screenshots
 
-Include relevant screenshots of the application to showcase its features and design. You can add screenshots to the repository and reference them here.
+Include relevant screenshots of the application to showcase its features and design. I'll add soon screenshots to the repository and reference them here.
 
 ## Contributing
 
